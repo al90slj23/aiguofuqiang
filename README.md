@@ -1,2 +1,2 @@
-# aiguofuqiang
-爱国富强
+# Initial page
+
