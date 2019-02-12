@@ -1,4 +1,4 @@
-# Merlin\|梅林
+# Merlin\|梅林 - 路由器
 
 {% hint style="warning" %}
 此客户端存在严重的稳定性与可靠性问题。

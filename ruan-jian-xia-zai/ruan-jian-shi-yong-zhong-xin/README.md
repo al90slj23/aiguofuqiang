@@ -4,7 +4,9 @@
 
 {% page-ref page="android/shadowsocksr.md" %}
 
-{% hint style="warning" %}
+{% page-ref page="lu-you-qi/merlin-mei-lin.md" %}
+
+{% hint style="danger" %}
 订阅地址 & 托管地址，请不要泄露给任何人！
 {% endhint %}
 
