@@ -48,4 +48,5 @@
 ## \[常见问题\]
 
 * [可能会问或者以后会问的问题](chang-jian-wen-ti/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
+* [关于几鸡规则颇具深度的解释](chang-jian-wen-ti/guan-yu-ji-ji-gui-ze-po-ju-shen-du-de-jie-shi.md)
 
