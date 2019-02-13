@@ -113,12 +113,7 @@ _\(c\) Field trials of UHDTV over DTT networks
 \(d\) Netflix 4K streaming is now live_  
 [_http://www.techhive.com/article/2141087/netflix-4k-streaming-is-now-live.html_](https://link.zhihu.com/?target=http%3A//www.dslreports.com/shownews/Netflix-4K-Video-Will-Need-At-Least-15-Mbps-125924)  
 _\(e\)_ [_How and Where You Can Stream 4K UHD Movies and TV_](https://link.zhihu.com/?target=http%3A//www.digitaltrends.com/home-theater/where-and-how-to-watch-4k-uhd-content/)  
-_\(f\)_ [_For Twice the Bandwidth of HD, LG's 4K Netflix-enabled TV is Sweet_](https://link.zhihu.com/?target=http%3A//thenextweb.com/gadgets/2014/01/07/first-impression-twice-bandwidth-lgs-4k-netflix-enabled-tv-sweet/%23gref)  
-
-
-####   
-
-
+_\(f\)_ [_For Twice the Bandwidth of HD, LG's 4K Netflix-enabled TV is Sweet_](https://link.zhihu.com/?target=http%3A//thenextweb.com/gadgets/2014/01/07/first-impression-twice-bandwidth-lgs-4k-netflix-enabled-tv-sweet/%23gref)
 
 ## 几鸡支持SS吗？
 
