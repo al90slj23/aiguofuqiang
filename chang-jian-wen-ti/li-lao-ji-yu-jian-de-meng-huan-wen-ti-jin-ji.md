@@ -24,13 +24,9 @@ B：欸，大佬们，我一直使用XX线路，挺好的，但是刚刚使用�
 
 三个例子，希望老几在这里已经表达清楚了该如何提问以及该以何种姿势提问才可以大概率获得帮助。若钢铁孩童依然无法理解，且愿意学习并需要更详细完整的文档，完成“问问题的方式”的学习可参考：
 
+### [提问的智慧](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui)
 
-
-
-
-
-
-
+### [群里提问的艺术](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu)
 
 ## 重复捐赠套餐会怎样？时间和流量会叠加吗？不同等级套餐呢？
 
