@@ -49,4 +49,7 @@
 
 * [可能会问或者以后会问的问题](chang-jian-wen-ti/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
 * [关于几鸡规则颇具深度的解释](chang-jian-wen-ti/guan-yu-ji-ji-gui-ze-po-ju-shen-du-de-jie-shi.md)
+* [一些详完整的文档以及详细解释](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/README.md)
+  * [提问的智慧](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui.md)
+  * [群里提问的艺术](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu.md)
 
