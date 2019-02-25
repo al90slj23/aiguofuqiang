@@ -80,9 +80,7 @@ B：**欸，大佬们，**我一直使用XX线路，挺好的，**但是**刚刚
 
 **三个例子**，**希望**老几在这里已经**表达清楚了**该如何提问**以及**该以何种姿势提问**才可以大概率获得帮助**。若**钢铁孩童依然无法理解**，**且**愿意学习**并**需要更详细**完整的文档**，完成**“问问题的方式”**的学习**可参考：**
 
-### [提问的智慧](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui)
-
-### [群里提问的艺术](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu)
+### [提问的智慧](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui) ＆ [群里提问的艺术](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu)
 
 ## 重复捐赠套餐会怎样？时间和流量会叠加吗？不同等级套餐呢？
 
