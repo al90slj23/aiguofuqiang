@@ -30,7 +30,7 @@ description: 老几遇见的梦幻问题锦集
 这里以 **机房：**高雄GDL的台湾Hinet，**当地网络：**四川电信，**本例时间：**2019.02.25 为例。  
 **六号线62号机**，ji-gdl-hinet06.lisuanlaoji.men，IP：218.166.143.66  
 **八号线84号机**，ji-gdl-hinet16.lisuanlaoji.men，IP：36.239.112.94  
-**二号线22号鸡**，ji-gdl-hinet20.lisuanlaoji.men，IP：218.166.236.102  
+**二号线22号机**，ji-gdl-hinet20.lisuanlaoji.men，IP：218.166.236.102  
 路由走向**分别如下**：  
 路由走 **成都-广州出口-台湾**，平均延迟**65ms**。  
 路由走 **成都-上海出口-台湾**，平均延迟**62ms**。  
