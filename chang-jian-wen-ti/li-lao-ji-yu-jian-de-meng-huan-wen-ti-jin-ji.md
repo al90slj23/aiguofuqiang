@@ -24,9 +24,7 @@ description: 老几遇见的梦幻问题锦集
 更多的独享/稳定线路，特别是增加了香港独享线路，**比较适合商业用户以及家挺用户/路由用户使用**。 
 
 **80 刷单海淘 - 海淘刷单客**  
-增加更多全球线路，方便海淘/刷单/撸号/薅毛等小众需求，线路不适合影视，**轻拿轻放，发财要紧**。  
-  
-
+增加更多全球线路，方便海淘/刷单/撸号/薅毛等小众需求，线路不适合影视，**轻拿轻放，发财要紧**。
 
 ## 300G是一直可用么？邀请朋友后赠送的呢？能否保留到下月？
 
@@ -56,10 +54,6 @@ description: 老几遇见的梦幻问题锦集
 **第二次**发现，**你懂的**。  
 **几鸡**账户理论上**只支持个人单人**使用，**若**在任何地方**发现**供给**他人**使用或**公用**（除公用套餐），  
 **不**要**多逼逼**，**你懂的**。
-
-
-
-
 
 ## 什么线路最快？什么线路最好？什么线路最稳定？
 
@@ -137,7 +131,7 @@ B：**欸，大佬们，**我一直使用XX线路，挺好的，**但是**刚刚
 
 **三个例子**，**希望**老几在这里已经**表达清楚了**该如何提问**以及**该以何种姿势提问**才可以大概率获得帮助**。若**钢铁孩童依然无法理解**，**且**愿意学习**并**需要更详细**完整的文档**，完成**“问问题的方式”**的学习**可参考：**
 
-### [提问的智慧](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui) ＆ [群里提问的艺术](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu)
+\*\*\*\*[**提问的智慧**](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui) **＆** [**群里提问的艺术**](https://www.lisuanlaoji.help/chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu)\*\*\*\*
 
 ## 重复捐赠套餐会怎样？时间和流量会叠加吗？不同等级套餐呢？
 
@@ -255,8 +249,6 @@ B：**欸，大佬们，**我一直使用XX线路，挺好的，**但是**刚刚
 **如果有**大面积**出问题**，**不用**私密，老几**会知道**，**处理中**或**处理了**都**没必要**一直**小窗**嘤嘤嘤。
 {% endhint %}
 
-
-
 ## 为什么在使用过程中有时候会突然拥挤？
 
 因为这时可能**十几个大汉**突然推开门使用这个节点**猛草**，导致**拥挤**，时刻多为**半晚高峰期**。  
@@ -371,6 +363,21 @@ _\(c\) Field trials of UHDTV over DTT networks
 [_http://www.techhive.com/article/2141087/netflix-4k-streaming-is-now-live.html_](https://link.zhihu.com/?target=http%3A//www.dslreports.com/shownews/Netflix-4K-Video-Will-Need-At-Least-15-Mbps-125924)  
 _\(e\)_ [_How and Where You Can Stream 4K UHD Movies and TV_](https://link.zhihu.com/?target=http%3A//www.digitaltrends.com/home-theater/where-and-how-to-watch-4k-uhd-content/)  
 _\(f\)_ [_For Twice the Bandwidth of HD, LG's 4K Netflix-enabled TV is Sweet_](https://link.zhihu.com/?target=http%3A//thenextweb.com/gadgets/2014/01/07/first-impression-twice-bandwidth-lgs-4k-netflix-enabled-tv-sweet/%23gref)
+
+## 关于GB和GiB
+
+**Gibibyte**（giga binary byte的缩写）是信息或计算机硬盘存储的一个单位，简称GiB。  
+GB（gigabyte）是十进制的容量单位，1GB等于1,000,000,000 Bytes。  
+GiB（Gibibyte）是二进制的容量单位。1GiB等于1,073,741,824 Bytes。
+
+### 说人话：
+
+我们平常说的1G=1024M，其实应该是1GiB=1024MiB  
+而GB和MB的关系应该是1GB=1000MB
+
+### 因此：
+
+硬盘商并没有骗你，只是计算单位不同而已。
 
 ## 几鸡支持SS吗？
 
