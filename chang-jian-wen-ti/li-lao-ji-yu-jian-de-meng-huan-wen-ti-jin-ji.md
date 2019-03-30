@@ -4,6 +4,46 @@ description: 老几遇见的梦幻问题锦集
 
 # 可能会问或者以后会问的问题
 
+## 关于Speedtest.net相关（Speestest-cli 的其他部分功能）
+
+太多人过分依赖无脑相信（貌似也是最方便的）测速脚本（基于Speedtest.net），即便是测试本地。  
+首先，Speedtest（本问题内特指Speedtet.net），好用/简单/直观/稳定/耐操，  
+但是，他的测试服务器并不是无限带宽无限硬件的，这点你要知晓。  
+当然，大部分情况下你完全不用考虑这点，因为会比你自己的机器更好，瓶颈只是你的小鸡。  
+不过，并不能无时无刻保证，测速服务器和你测试的机器之前的网络没有波动  
+以及，当前测试使用的测试服务器没有硬件和网络异常/拥堵情况。  
+所以，不要过分的相信和依赖一键脚本测试速度。  
+即便，是测试机器本地带宽测试。  
+至少，做到多次或指定多台测试服务器测速。  
+那么，如何指定多台测速服务器测速？
+
+speedtest -h，-help 显示帮助  
+speedtest -bytes生成结果以字节显示（并不影响-share生成的图片）  
+speedtest -share生成结果保存在speedtest服务器上并保存为图片链接  
+speedtest -smple禁止详细输出，仅显示基本信息  
+speedtest -list列出所有服务器ID   
+speedtest -server SERVER指定一个服务器ID   
+speedtest -mini指定你自己上传的speedtest mini客户端  
+speedtest -source SOURCE绑定到  
+speedtest -timeout的源IP地址TIMEOUT HTTP超时秒。默认10   
+speedtest -secure与speedtest.net运行的服务器通信时使用HTTPS而不是HTTP   
+speedtest -version显示版本号并退出
+
+常用 ：  
+speedtest -list列出所有服务器ID  
+speedtest -server SERVER指定一个服务器ID 
+
+比如：  
+台湾Hinet线路，在默认测试有异常的情况下，可以尝试：speedtest --server 4941  
+  
+为啥？  
+因为IDC很忙的，  
+不要有事没事嘤嘤嘤，万一被清退就不好了。别人的时间也是时间，  
+多方查证后私聊BOSS说明测试流程以求教问题并请求帮忙解决。  
+注意，有问题私聊，因为自己的不清楚而肆意群内BB，  
+无论任何时候任何群组任何圈子，都不是最优选择。  
+容易引发翻车烦请自知。
+
 ## 有些节点明明可以流畅4K，为什么会自动识别1080P？
 
 **答：TCP**为**慢启动**方式（相关自行百度），BBR爬速**起始速度低**。  
