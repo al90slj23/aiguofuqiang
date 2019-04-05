@@ -73,7 +73,7 @@ description: 不接受PY，请放弃你的想法。
         <p>&#x4EC0;&#x4E48;&#x662F;&#x514D;&#x6D41;&#xFF1F;</p>
         <p>&#x4E3A;&#x4EC0;&#x4E48;80/443&#x7AEF;&#x53E3;&#x6709;&#x65F6;&#x4F1A;&#x65AD;&#x6D41;&#xFF1F;</p>
       </td>
-      <td style="text-align:left"><a href="https://t.me/ngcss/204699%20https://t.me/ngcss/204700">https://t.me/ngcss/204699 https://t.me/ngcss/204700</a>
+      <td style="text-align:left"><a href="https://t.me/ngcss/204699%20https://t.me/ngcss/204700">https://t.me/ngcss/204699<br />https://t.me/ngcss/204700</a>
       </td>
       <td style="text-align:left">2019.04.05</td>
     </tr>
