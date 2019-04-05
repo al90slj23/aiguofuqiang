@@ -47,12 +47,12 @@
 
 ## \[常见问题\]
 
-* [多半会问的常见问题语音解答](chang-jian-wen-ti/yuyin.md)
-* [可能会问或者以后会问的问题](chang-jian-wen-ti/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
-* [关于几鸡规则颇具深度的解释](chang-jian-wen-ti/guan-yu-ji-ji-gui-ze-po-ju-shen-du-de-jie-shi.md)
-* [一些详完整的文档及详细解释](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/README.md)
-  * [提问的智慧](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui.md)
-  * [群里提问的艺术](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu.md)
-  * [什么是 ChinaNet,CN2,GT,GIA？](chang-jian-wen-ti/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/shen-me-shi-chinanetcn2gtgia.md)
-* [李鹤睿机场运营的一点点心得](chang-jian-wen-ti/li-he-ji-chang-yun-ying-de-yi-dian-dian-xin-de.md)
+* [多半会问的常见问题语音解答](cjwt/yuyin.md)
+* [可能会问或者以后会问的问题](cjwt/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
+* [关于几鸡规则颇具深度的解释](cjwt/guan-yu-ji-ji-gui-ze-po-ju-shen-du-de-jie-shi.md)
+* [一些详完整的文档及详细解释](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/README.md)
+  * [提问的智慧](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui.md)
+  * [群里提问的艺术](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu.md)
+  * [什么是 ChinaNet,CN2,GT,GIA？](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/shen-me-shi-chinanetcn2gtgia.md)
+* [李鹤睿机场运营的一点点心得](cjwt/li-he-ji-chang-yun-ying-de-yi-dian-dian-xin-de.md)
 
