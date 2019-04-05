@@ -31,9 +31,9 @@ description: 不接受PY，请放弃你的想法。
         <td style="text-align:left">2019.04.05</td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x4E3A;&#x4EC0;&#x4E48;&#x4F1A;&#x51FA;&#x73B0;500/&#x5577;&#x4E2A;&#x56DE;&#x4E8B;/&#x91CD;&#x590D;&#x8DF3;&#x8F6C;&#x767B;&#x5F55;&#xFF1F;
+      <td style="text-align:left">&#x4E3A;&#x4EC0;&#x4E48;&#x4F1A;&#x51FA;&#x73B0;500/&#x91CD;&#x590D;&#x767B;&#x9646;&#xFF1F;
         <br
-        />&#x51FA;&#x73B0;500/&#x5577;&#x4E2A;&#x56DE;&#x4E8B;/&#x91CD;&#x590D;&#x8DF3;&#x8F6C;&#x767B;&#x5F55;&#x5982;&#x4F55;&#x89E3;&#x51B3;&#xFF1F;</td>
+        />&#x51FA;&#x73B0;500/&#x91CD;&#x590D;&#x767B;&#x5F55;&#x5982;&#x4F55;&#x89E3;&#x51B3;&#xFF1F;</td>
       <td
       style="text-align:left"><a href="https://t.me/ngcss/204556">https://t.me/ngcss/204556</a>
         </td>
@@ -71,7 +71,7 @@ description: 不接受PY，请放弃你的想法。
     <tr>
       <td style="text-align:left">
         <p>&#x4EC0;&#x4E48;&#x662F;&#x514D;&#x6D41;&#xFF1F;</p>
-        <p>&#x4E3A;&#x4EC0;&#x4E48;80&#xFF0C;443&#x7AEF;&#x53E3;&#x6709;&#x65F6;&#x5019;&#x4F1A;&#x65AD;&#x6D41;&#xFF1F;</p>
+        <p>&#x4E3A;&#x4EC0;&#x4E48;80/443&#x7AEF;&#x53E3;&#x6709;&#x65F6;&#x4F1A;&#x65AD;&#x6D41;&#xFF1F;</p>
       </td>
       <td style="text-align:left"><a href="https://t.me/ngcss/204699%20https://t.me/ngcss/204700">https://t.me/ngcss/204699 https://t.me/ngcss/204700</a>
       </td>
