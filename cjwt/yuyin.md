@@ -58,9 +58,14 @@ description: 不接受PY，请放弃你的想法。
       <td style="text-align:left">2019.04.05</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>TG&#x4EE3;&#x7406;&#xFF08;MTProxy&#xFF09;&#x4E3A;&#x4EC0;&#x4E48;&#x73B0;&#x5728;&#x6CA1;&#x4E86;&#xFF1F;</p>
+        <p>TG&#x4EE3;&#x7406;&#xFF08;MTProxy&#xFF09;&#x4E3A;&#x4EC0;&#x4E48;&#x4E0D;&#x7A33;&#x5B9A;&#x4E86;&#xFF1F;</p>
+        <p>&#x5728;&#x54EA;&#x91CC;&#x53BB;&#x627E;&#x65B0;&#x7684;TG&#x4EE3;&#x7406;&#xFF08;MTProxy&#xFF09;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/204579">https://t.me/ngcss/204579</a>
+      </td>
+      <td style="text-align:left">2019.04.05</td>
     </tr>
   </tbody>
 </table>
