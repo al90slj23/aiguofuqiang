@@ -77,5 +77,15 @@ description: 不接受PY，请放弃你的想法。
       </td>
       <td style="text-align:left">2019.04.05</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x4E3A;&#x4EC0;&#x4E48;&#x8BA2;&#x9605;&#x51FA;&#x8282;&#x70B9;&#xFF1F;</p>
+        <p>&#x4E3A;&#x4EC0;&#x4E48;&#x8282;&#x70B9;&#x5168;&#x90FD;&#x4E0D;&#x53EF;&#x7528;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/204732">https://t.me/ngcss/204732</a>
+      </td>
+      <td style="text-align:left">2019.04.05</td>
+    </tr>
   </tbody>
 </table>
+
