@@ -107,6 +107,28 @@ description: 不接受PY，请放弃你的想法。
         </td>
         <td style="text-align:left">2019.04.05</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x5230;&#x5E95;&#x4EC0;&#x4E48;&#x662F;&#x514D;&#x6D41;&#xFF1F;</p>
+        <p>&#x90FD;&#x662F;&#x65E0;&#x9650;&#x6D41;&#x91CF;&#x5361;&#x4E86;&#xFF0C;&#x4E3A;&#x4EC0;&#x4E48;&#x8FD8;&#x9700;&#x8981;&#x514D;&#x6D41;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left">
+        <p><a href="https://t.me/ngcss/205129 ">https://t.me/ngcss/205129 </a>
+        </p>
+        <p><a href="https://t.me/ngcss/205131">https://t.me/ngcss/205131</a>
+        </p>
+      </td>
+      <td style="text-align:left">2019.04.05</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x90A3;&#x6211;&#x6B63;&#x5E38;&#x4F7F;&#x7528;&#x662F;&#x7528;80/443&#xFF0C;</p>
+        <p>&#x8FD8;&#x662F;&#x7528;&#x666E;&#x901A;&#x7AEF;&#x53E3;&#x5462;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/205171">https://t.me/ngcss/205171</a>
+      </td>
+      <td style="text-align:left">2019.04.05</td>
+    </tr>
   </tbody>
 </table>
 
