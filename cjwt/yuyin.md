@@ -129,6 +129,20 @@ description: 不接受PY，请放弃你的想法。
       </td>
       <td style="text-align:left">2019.04.05</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x6D4B;&#x901F;&#x662F;&#x5426;&#x6709;&#x610F;&#x4E49;&#xFF1F;</p>
+        <p>&#x6D4B;&#x901F;&#x7684;&#x4F5C;&#x7528;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</p>
+        <p>&#x6D4B;&#x901F;&#x9700;&#x8981;&#x6CE8;&#x610F;&#x54EA;&#x4E9B;&#xFF1F;</p>
+        <p>QOS&#x7684;&#x57FA;&#x672C;&#x539F;&#x7406;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</p>
+        <p>&#x5982;&#x4F55;&#x901A;&#x8FC7;&#x9650;&#x901F;&#x5C3D;&#x53EF;&#x80FD;&#x7684;&#x89C4;&#x907F;QOS&#xFF1F;</p>
+        <p>&#x5927;&#x5E26;&#x5BBD;&#x8282;&#x70B9;&#x6D4B;&#x672C;&#x5730;&#x5E26;&#x5BBD;&#x4E0D;&#x591F;&#x662F;&#x4E3A;&#x4EC0;&#x4E48;&#xFF1F;</p>
+        <p>&#x5927;&#x5E26;&#x5BBD;VPS&#x6D4B;&#x901F;&#x4E0D;&#x8DB3;&#xFF0C;&#x5269;&#x4F59;&#x7684;&#x5E26;&#x5BBD;&#x53BB;&#x54EA;&#x4E86;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/205220">https://t.me/ngcss/205220</a>
+      </td>
+      <td style="text-align:left">2019.04.05</td>
+    </tr>
   </tbody>
 </table>
 
