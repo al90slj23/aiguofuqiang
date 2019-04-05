@@ -17,7 +17,7 @@ description: 不接受PY，请放弃你的想法。
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">&#x4E3A;&#x4EC0;&#x4E48;&#x51E0;&#x9E21;&#x4E3B;&#x529B;&#x7EBF;&#x8DEF;&#x4E0D;&#x7528;V2ray&#xFF1F;</td>
+      <td style="text-align:left">&#x4E3A;&#x5565;&#x51E0;&#x9E21;&#x4E3B;&#x529B;&#x7EBF;&#x8DEF;&#x4E0D;&#x7528;V2ray&#xFF1F;</td>
       <td
       style="text-align:left"><a href="https://t.me/ngcss/204532">https://t.me/ngcss/204532</a>
         </td>
