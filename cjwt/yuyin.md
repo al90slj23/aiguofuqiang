@@ -143,6 +143,22 @@ description: 不接受PY，请放弃你的想法。
       </td>
       <td style="text-align:left">2019.04.05</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x5982;&#x4F55;&#x79D1;&#x5B66;speedtest&#x6D4B;&#x901F;&#xFF1F;</p>
+        <p>&#x6D4B;&#x901F;&#x5BB9;&#x6613;&#x8D70;&#x7684;&#x5751;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/210006">https://t.me/ngcss/210006</a>
+      </td>
+      <td style="text-align:left">2019.04.10</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x6D4B;&#x901F;&#x975E;&#x5E38;&#x5F02;&#x5E38;&#x4E00;&#x822C;&#x6709;&#x4EC0;&#x4E48;&#x89E3;&#x51B3;&#x529E;&#x6CD5;&#xFF1F;</td>
+      <td
+      style="text-align:left"><a href="https://t.me/ngcss/210009">https://t.me/ngcss/210009</a>
+        </td>
+        <td style="text-align:left">&#x200B;2019.04.10</td>
+    </tr>
   </tbody>
 </table>
 
