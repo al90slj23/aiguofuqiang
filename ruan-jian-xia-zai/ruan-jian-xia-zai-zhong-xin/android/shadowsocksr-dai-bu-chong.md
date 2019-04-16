@@ -9,7 +9,6 @@
 
 {% file src="../../../.gitbook/assets/ji-ji-ssr.zip" %}
 
-请等待睿睿补充，如果您需要帮助请联系：
-
+请等待睿睿补充，如果您需要帮助请联系：  
 **TG：**[https://t.me/NGC\_HenryLee](https://t.me/NGC_HenryLee)
 
