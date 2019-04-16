@@ -10,6 +10,15 @@ description: 我们永远热爱书籍和小姐姐
 
 你可能需要知道的 **99%** 应该都可以在 **左侧栏目** 找到。~~（语句符合广告法）~~
 
+官网：[https://jiji.world](https://jiji.world)  
+其它：[kankan.bi](http://kankan.bi) / [keng.bi](http://keng.bi) / [pao.lu](http://pao.lu)
+
+**公告：**[**https://t.me/ngcssnews**](https://t.me/ngcssnews) **（必加，常见最新问题都会发公告）**  
+~~~~QQ群：[15779380](https://pieuu16952121.com/shang.qq.com/wpa/qunwpa?idkey=25d0ab65d9f8bc406a97223fdcf72c1c98cd43199dad5a7339d39e0bb98ca9cf)  
+TG群：[http://t.me/ngcss](http://t.me/ngcss) （推荐）
+
+相关：卡铺 - [NGCSS.shop](https://ngcss.shop)
+
 {% hint style="danger" %}
 **醒一醒**，有几点老几需要**着重**交待一波，请~~掏出~~拿出小本子：
 {% endhint %}
