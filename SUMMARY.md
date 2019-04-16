@@ -41,7 +41,7 @@
   * [MacOS](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/README.md)
     * [ClashX（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/clashx.md)
     * [Surge 3（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/surge-3-dai-bu-chong.md)
-    * [ShadowsocksR（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/shadowsocksr-dai-bu-chong.md)
+    * [ShadowsocksX-NG-R8](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/shadowsocksr-dai-bu-chong.md)
   * [路由器](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/lu-you-qi/README.md)
     * [Merlin\|梅林 - 路由器](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/lu-you-qi/merlin-mei-lin.md)
     * [Padavan\|老毛子（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/lu-you-qi/padavan-lao-mao-zi-dai-bu-chong.md)
