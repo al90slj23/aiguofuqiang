@@ -36,6 +36,7 @@
     * [ShadowsocksD（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/android/shadowsocksd-dai-bu-chong.md)
     * [Surfboard（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/android/surfboard-dai-bu-chong.md)
   * [iOS](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/ios/README.md)
+    * [Shadowrocket](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/ios/shadowrocket.md)
     * [Quantumult](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/ios/quantumult.md)
   * [MacOS](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/README.md)
     * [ClashX（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/macos/clashx.md)
