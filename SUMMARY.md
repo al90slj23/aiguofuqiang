@@ -8,7 +8,7 @@
 
 * [软件下载中心](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/README.md)
   * [Winwodws](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/README.md)
-    * [ShadowsocksR（待补充）](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/shadowsocksr.md)
+    * [ShadowsocksR](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/shadowsocksr.md)
     * [ShadowsocksD（待补充）](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/shadowsocksd.md)
     * [SS-Tap（待补充）](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/sstap-dai-bu-chong.md)
     * [Clash（待补充）](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/clash.md)

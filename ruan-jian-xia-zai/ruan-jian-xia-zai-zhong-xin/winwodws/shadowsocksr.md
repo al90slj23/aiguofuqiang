@@ -1,9 +1,11 @@
-# ShadowsocksR（待补充）
+# ShadowsocksR
 
 * 系统要求：Windows XP 及以上
 * 设备要求：Windows PC / Tablet
 
-**未完，**请等待老几补充，如果您需要帮助请联系：
+{% file src="../../../.gitbook/assets/shadowsocksr-v6.0.6.2-by-mtppub.zip" %}
 
-TG：t.me/lisuanlaoji
+请等待睿睿补充，如果您需要帮助请联系：
+
+**TG：**[https://t.me/NGC\_HenryLee](https://t.me/NGC_HenryLee)
 
