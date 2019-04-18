@@ -29,10 +29,10 @@ Wiki：[https://zh.wikipedia.org/wiki/Telegram](https://zh.wikipedia.org/wiki/Te
 5. 加入 几鸡 群组： [t.me/ngcss](https://t.me/ngcss) , 更多详情请良好心态下群里请教，基础问题本教程看。
 6. 记得关注 几鸡 公告板，[https://t.me/ngcssnews](https://t.me/ngcssnews) ，一般日常问题和动态都会发公告。
 
-PS：限制大陆手机私聊，并不是因为歧视中国人，而是之前币圈的人各种发广告太严重导致，  
-只能用其他手机号注册，比如GV（google voice）虚拟号或者找机器人申请解锁。
+PS：各司机群，安卓和PC、网页客户端可畅通浏览，IOS无法访问是因为苹果规定。TG不背锅。
 
-PS：各类老司机群，安卓和PC、网页客户端可畅通浏览，IOS无法访问是因为苹果规定。TG不背锅。
+PS：限制大陆手机私聊，并不是因为歧视中国人，而是之前币圈的人各种发广告太严重导致，  
+只能用其他手机号注册，比如GV（google voice）虚拟号或者找机器人：[@spambot](https://t.me/spambot) 申请解锁。
 
 {% file src="../.gitbook/assets/2018-11-16-13-10-18-574.mp4" caption="Telegram 申请解锁饲料限制" %}
 
