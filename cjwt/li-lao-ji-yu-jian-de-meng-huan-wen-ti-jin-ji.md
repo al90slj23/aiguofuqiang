@@ -1,8 +1,26 @@
 ---
-description: 老几遇见的梦幻问题锦集
+description: 李鹤睿遇见的梦幻问题锦集
 ---
 
 # 可能会问或者以后会问的问题
+
+## Telegram是什么？为什么使用Telegram？如何使用？
+
+### 一、Telegram是什么？
+
+答：一款社交聊天工具，你可以理解为发源于俄罗斯的QQ，特点是加密隐私性，并且不接受任何组织和任何国家的信息审查，后面增加了一条规则，如果法官有证据证明你是恐怖分子，会提交你的信息，否则其它情况下，不会提交。
+
+**Telegram**是一个[跨平台](https://zh.wikipedia.org/wiki/%E8%B7%A8%E5%B9%B3%E5%8F%B0)的[即时通信](https://zh.wikipedia.org/wiki/%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A)软件，它的[客户端](https://zh.wikipedia.org/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF)是[自由及开放源代码软件](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81%E8%BD%AF%E4%BB%B6)，但是它的[服务器](https://zh.wikipedia.org/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8)是[专有软件](https://zh.wikipedia.org/wiki/%E7%A7%81%E6%9C%89%E8%BD%AF%E4%BB%B6)。用户可以相互交换加密与自毁消息[\[注 1\]](https://zh.wikipedia.org/wiki/Telegram#cite_note-15)，发送[照片](https://zh.wikipedia.org/wiki/%E7%9B%B8%E7%89%87)、[影片](https://zh.wikipedia.org/wiki/%E8%A6%96%E5%83%8F)等所有类型文件。官方提供手机版（[Android](https://zh.wikipedia.org/wiki/Android)、[iOS](https://zh.wikipedia.org/wiki/IOS)、[Windows Phone](https://zh.wikipedia.org/wiki/Windows_Phone)）、桌面版（[Windows](https://zh.wikipedia.org/wiki/Windows)、[macOS](https://zh.wikipedia.org/wiki/MacOS)、[Linux](https://zh.wikipedia.org/wiki/Linux)）和网页版[\[15\]](https://zh.wikipedia.org/wiki/Telegram#cite_note-16)等多种平台客户端；同时官方开放[应用程序接口](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3)，因此拥有许多第三方的客户端[\[16\]](https://zh.wikipedia.org/wiki/Telegram#cite_note-17)可供选择，其中多款内置中文。
+
+Wiki：[https://zh.wikipedia.org/wiki/Telegram](https://zh.wikipedia.org/wiki/Telegram)
+
+### 二、为什么使用Telegram？
+
+答：综上所述，关于鸡场，它更适合。缺点是需要富强，但是你都是鸡友了，爱国富强不是问题。
+
+详细：
+
+
 
 ## 关于Speedtest.net相关（Speestest-cli 的其他部分功能）
 
