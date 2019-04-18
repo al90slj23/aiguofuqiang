@@ -4,7 +4,7 @@ description: 李鹤睿遇见的梦幻问题锦集
 
 # 可能会问或者以后会问的问题
 
-## Telegram是什么？为什么使用Telegram？如何使用？
+## Telegram是什么？为什么使用Telegram？如何使用Telegram？
 
 ### 一、Telegram是什么？
 
@@ -18,7 +18,21 @@ Wiki：[https://zh.wikipedia.org/wiki/Telegram](https://zh.wikipedia.org/wiki/Te
 
 答：综上所述，关于鸡场，它更适合。缺点是需要富强，但是你都是鸡友了，爱国富强不是问题。
 
-详细：
+详细：[我为什么使用Telegram 即时通讯聊天软件功能对比评测 Telegram VS 国内腾讯系 微信/腾讯QQ ](https://www.lisuanlaoji.help/cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/wei-shen-me-shi-yong-telegram)
+
+### 三、如何使用Telegram？
+
+1. 使用 [几鸡v2.0](https://jiji.world) 完成富强后，保持连接状态。
+2. 各平台搜索 Telegram ，或者网页访问 [t.me](https://t.me) ,完成软件的下载和安装。
+3. 注册账户，+86（即大陆手机号），注册开始使用会无法私聊，需要人工解锁。
+4. 软件并没有可以设置中文，但可使用汉化包，开始使用后点击此处解锁： [汉化包](https://t.me/setlanguage/classic-zh-cn)
+5. 加入 几鸡 群组： [t.me/ngcss](https://t.me/ngcss) , 更多详情请良好心态下群里请教，基础问题本教程看。
+6. 记得关注 几鸡 公告板，[https://t.me/ngcssnews](https://t.me/ngcssnews) ，一般日常问题和动态都会发公告。
+
+PS：限制大陆手机私聊，并不是因为歧视中国人，而是之前币圈的人各种发广告太严重导致，  
+只能用其他手机号注册，比如GV（google voice）虚拟号或者找机器人申请解锁，
+
+{% file src="../.gitbook/assets/2018-11-16-13-10-18-574.mp4" caption="Telegram 申请解锁饲料限制" %}
 
 
 
