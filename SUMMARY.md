@@ -54,6 +54,7 @@
 * [可能会问或者以后会问的问题](cjwt/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
 * [关于几鸡规则颇具深度的解释](cjwt/guan-yu-ji-ji-gui-ze-po-ju-shen-du-de-jie-shi.md)
 * [一些详完整的文档及详细解释](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/README.md)
+  * [为什么使用Telegram](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/wei-shen-me-shi-yong-telegram.md)
   * [提问的智慧](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui.md)
   * [群里提问的艺术](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu.md)
   * [什么是 ChinaNet,CN2,GT,GIA？](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/shen-me-shi-chinanetcn2gtgia.md)
