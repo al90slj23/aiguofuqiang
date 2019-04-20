@@ -17,6 +17,27 @@ description: 不接受PY，请放弃你的想法。
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">
+        <p>&#x4E3A;&#x4EC0;&#x4E48;&#x6211;&#x8282;&#x70B9;&#x90FD;&#x4E0D;&#x80FD;&#x7528;&#x4E86;&#xFF1F;</p>
+        <p>&#x4E3A;&#x4EC0;&#x4E48;&#x6211;&#x91CD;&#x7F6E;&#x4E86;&#x8282;&#x70B9;&#x8FD8;&#x662F;&#x4E0D;&#x80FD;&#x7528;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/219599">https://t.me/ngcss/219599</a>
+      </td>
+      <td style="text-align:left">2019.04.21</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>&#x4E2D;&#x8F6C;/&#x4E2D;&#x7EE7;&#x8282;&#x70B9;&#x662F;&#x4EC0;&#x4E48;&#x610F;&#x601D;&#xFF1F;
+          <br
+          />&#x4E2D;&#x8F6C;&#x8282;&#x70B9;&#x7684;&#x4F18;&#x70B9;&#x7F3A;&#x70B9;&#x5206;&#x522B;&#x662F;&#x5565;&#xFF1F;</p>
+        <p>&#x4E3A;&#x4EC0;&#x4E48;&#x8FD1;&#x671F;&#x51FA;&#x73B0;&#x4E86;&#x5F88;&#x591A;&#x5168;&#x4E2D;&#x8F6C;&#x8282;&#x70B9;&#x5C0F;&#x673A;&#x573A;&#xFF1F;</p>
+        <p>&#x6211;&#x4EEC;&#x4F1A;&#x90E8;&#x7F72;&#x4E2D;&#x8F6C;&#x8282;&#x70B9;&#x5417;&#xFF1F;</p>
+      </td>
+      <td style="text-align:left"><a href="https://t.me/ngcss/219596">https://t.me/ngcss/219596</a>
+      </td>
+      <td style="text-align:left">2019.04.21</td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x4E3A;&#x5565;&#x51E0;&#x9E21;&#x4E3B;&#x529B;&#x7EBF;&#x8DEF;&#x4E0D;&#x7528;V2ray&#xFF1F;</td>
       <td
       style="text-align:left"><a href="https://t.me/ngcss/204532">https://t.me/ngcss/204532</a>
