@@ -18,8 +18,9 @@ description: 我们永远热爱书籍和小姐姐
 其它：[kankan.bi](http://kankan.bi) / [keng.bi](http://keng.bi) / [pao.lu](http://pao.lu)
 
 **公告：**[**https://t.me/ngcssnews**](https://t.me/ngcssnews) **（必加，常见最新问题都会发公告）**  
-~~~~QQ群：[15779380](https://pieuu16952121.com/shang.qq.com/wpa/qunwpa?idkey=25d0ab65d9f8bc406a97223fdcf72c1c98cd43199dad5a7339d39e0bb98ca9cf)  
-TG群：[http://t.me/ngcss](http://t.me/ngcss) （推荐）
+TG群：[http://t.me/ngcss](http://t.me/ngcss) （推荐）  
+TG使用教程：[点我学习 TG使用教程](https://www.lisuanlaoji.help/cjwt/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji#telegram-shi-shen-me-wei-shen-me-shi-yong-telegram-ru-he-shi-yong-telegram)  
+QQ群：[点我进入最新QQ群](https://qqgroup.ngcss.wang)
 
 相关：卡铺 - [NGCSS.shop](https://ngcss.shop)
 
