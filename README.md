@@ -20,7 +20,7 @@ description: 我们永远热爱书籍和小姐姐
 **公告：**[**https://t.me/ngcssnews**](https://t.me/ngcssnews) **（必加，常见最新问题都会发公告）**  
 TG群：[http://t.me/ngcss](http://t.me/ngcss) （推荐）  
 TG使用教程：[点我学习 TG使用教程](https://www.lisuanlaoji.help/cjwt/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji#telegram-shi-shen-me-wei-shen-me-shi-yong-telegram-ru-he-shi-yong-telegram)  
-QQ群：[点我进入最新QQ群](https://qqgroup.ngcss.wang)
+QQ群：[点我进入最新QQ群](http://qq.group.ngcss.wang)
 
 相关：卡铺 - [NGCSS.shop](https://ngcss.shop)
 
