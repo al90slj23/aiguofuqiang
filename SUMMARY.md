@@ -1,7 +1,7 @@
 # Table of contents
 
 * [指引大厅](README.md)
-* [快捷指南](kuai-jie-zhi-nan.md)
+* [富强教室](kuai-jie-zhi-nan.md)
 * [新手教程](xsjc.md)
 * [联系我们](lian-xi-wo-men.md)
 
