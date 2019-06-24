@@ -1,7 +1,8 @@
 # Table of contents
 
 * [指引大厅](README.md)
-* [富强教室](kuai-jie-zhi-nan.md)
+* [富强教室](fqjs/README.md)
+  * [常见术语](fqjs/chang-jian-shu-yu.md)
 * [新手教程](xsjc.md)
 * [联系我们](lian-xi-wo-men.md)
 
