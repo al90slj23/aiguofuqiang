@@ -14,8 +14,7 @@ description: 我们永远热爱书籍和小姐姐
 
 你可能需要知道的 **99%** 应该都可以在 **左侧栏目** 找到。~~（语句符合广告法）~~
 
-官网：[https://jiji.cx](https://jiji.cx)  
-其它：[kankan.bi](http://kankan.bi) / [keng.bi](http://keng.bi) / [pao.lu](http://pao.lu)
+官网：[China.TG](https://china.tg)
 
 **公告：**[**https://t.me/ngcssnews**](https://t.me/ngcssnews) **（必加，常见最新问题都会发公告）**  
 TG群：[http://t.me/ngcss](http://t.me/ngcss) （推荐）  

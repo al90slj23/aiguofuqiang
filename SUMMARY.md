@@ -4,7 +4,7 @@
 * [新手教程](xin-shou-jiao-cheng.md)
 * [联系我们](lian-xi-wo-men.md)
 
-## \[软件\]\[下载＆使用\]
+## \[软件\]\[下载＆使用\] <a id="ruan-jian-xia-zai"></a>
 
 * [软件下载中心](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/README.md)
   * [Winwodws](ruan-jian-xia-zai/ruan-jian-xia-zai-zhong-xin/winwodws/README.md)
@@ -48,7 +48,7 @@
     * [Merlin\|梅林 - 路由器](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/lu-you-qi/merlin-mei-lin.md)
     * [Padavan\|老毛子（待补充）](ruan-jian-xia-zai/ruan-jian-shi-yong-zhong-xin/lu-you-qi/padavan-lao-mao-zi-dai-bu-chong.md)
 
-## \[常见问题\]
+## \[常见问题\] <a id="cjwt"></a>
 
 * [多半会问的常见问题语音解答](cjwt/yuyin.md)
 * [可能会问或者以后会问的问题](cjwt/li-lao-ji-yu-jian-de-meng-huan-wen-ti-jin-ji.md)
