@@ -1,6 +1,6 @@
 # Table of contents
 
-* [爱国富强 - 帮助中心](README.md)
+* [爱国富强学院 - 帮助大厅](README.md)
 * [新手教程](xin-shou-jiao-cheng.md)
 * [联系我们](lian-xi-wo-men.md)
 
