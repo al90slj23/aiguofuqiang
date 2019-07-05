@@ -62,5 +62,6 @@
   * [提问的智慧](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/ti-wen-de-zhi-hui.md)
   * [群里提问的艺术](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/qun-li-ti-wen-de-yi-shu.md)
   * [什么是 ChinaNet,CN2,GT,GIA？](cjwt/yi-xie-xiang-wan-zheng-de-wen-dang-yi-ji-xiang-xi-jie-shi/shen-me-shi-chinanetcn2gtgia.md)
-* [李鹤睿机场运营的一点点心得](cjwt/li-he-ji-chang-yun-ying-de-yi-dian-dian-xin-de.md)
+* [李鹤睿机场运营的一点点心得](cjwt/li-he-ji-chang-yun-ying-de-yi-dian-dian-xin-de/README.md)
+  * [各类线路和机房](cjwt/li-he-ji-chang-yun-ying-de-yi-dian-dian-xin-de/ge-lei-xian-lu-he-ji-fang.md)
 
